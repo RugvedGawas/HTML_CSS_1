@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400&family=Merriweather&family=Montserrat:wght@100;400;900&family=Sacramento&family=Ubuntu:wght@300&display=swap');
+*{
+  font-family: Inter;
+}
+
+.header{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #FFCD9E;
+  height: 70vh;
+}
+
+.rght{
+ width: 500px;
+}
+
+
+.img1{
+  height: 450px;
+}
+
+
+.p1{
+  width: 380px;
+  margin: 10px;
+}
+
+
+.h1,.b1,.ip{
+  margin: 10px;
+}
+
+.ip{
+  display: inline-flex;
+  height: 50px;
+}
+
+.ip1{
+  border-radius: 5px;
+  border: 4px solid #282828;
+  width: 280px;
+  margin-right: 5px;
+  padding-left: 10px;
+}
+
+.ip2{
+  border: 4px solid #282828;
+  border-radius: 5px;
+  background-color: #282828;
+  color: #ffff;
+  width: 200px;
+  font-weight:500;
+  font-size: 18px;
+  text-align:center;
+}
+
+.p2{
+  font-size: 14px;
+  margin-left: 30px;
+  color: #ffff;
+}
+
+
+
+.footer{
+  display: flex;
+  justify-content:space-between;
+  align-items:center;
+  background-color: #282828;
+  color: #ffff;
+  height: 30vh;
+}
+
+
+
+
+ul{
+  list-style-type: none;
+}
+
+li{
+  padding: 5px;
+}
+
+.l1{
+  text-align: right;
+}
+
+.one{
+  margin: 30px 100px;
+}
+
+.two{
+  margin: 30px 250px;
+}
